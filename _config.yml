@@ -1,0 +1,14 @@
+layout_spectrum: 0.4968650483060628
+typography_spectrum: 0.34576411452144384
+color:
+  brandStrength: 0.9893912503030151
+  lightness: 0.6144061705563217
+  saturation: 0.8165950938127935
+  rhythmicContrast: 0.2751048260834068
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: andershaaber
