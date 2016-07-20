@@ -1,16 +1,13 @@
 ---
 description: Bobo Moreno
-dateModified: '2016-07-20T06:10:00.766Z'
-datePublished: '2016-07-20T06:10:05.605Z'
+dateModified: '2016-07-20T06:11:43.372Z'
+datePublished: '2016-07-20T06:11:44.022Z'
 title: ''
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/03a01ca4-5fd2-4bc1-afe7-feed07a2cf1b.jpg
-starred: false
 sourcePath: _posts/2016-07-20-bobo-moreno.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: bobo-moreno/index.html
 _type: MediaObject
 
 ---
