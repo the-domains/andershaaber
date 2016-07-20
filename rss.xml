@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Anders Haaber]]></title>
         <description><![CDATA[Anders Haaber]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andershaaber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 05:49:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 06:10:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andershaaber/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6cb2d358963972f947b03a3173a1728f/croprotate.jpg?cropheight=656&cropwidth=768&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F497ce5be-338e-4923-91a4-e91e374c887a.jpg&x=225&y=0">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/03a01ca4-5fd2-4bc1-afe7-feed07a2cf1b.jpg</link>
+            <guid isPermaLink="false">77337ac4-daf6-4ead-8a78-62b767a8db1e</guid>
+            <pubDate>Wed, 20 Jul 2016 06:10:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/88184870f58054d869929375b59a0e6d/croprotate.jpg?cropheight=5357&cropwidth=3745&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb66a2681-084e-4729-9c40-21b556db5dbc.jpg&x=0&y=0" alt="Anders Haaber">]]></description>
