@@ -6,9 +6,9 @@ color:
   saturation: 0.8165950938127935
   rhythmicContrast: 0.2751048260834068
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
 name: andershaaber
