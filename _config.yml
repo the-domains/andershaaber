@@ -11,9 +11,5 @@ color:
     - '#306E73'
     - '#3B424D'
     - '#1D181F'
-name: andershaaber
-navigation:
-  - id: 77337ac4-daf6-4ead-8a78-62b767a8db1e
-    url: 2016-07-20-bobo-moreno.html
-    name: MUSIKER
-    type: content
+name: Anders Haaber
+navigation: []
