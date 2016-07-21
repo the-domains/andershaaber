@@ -12,4 +12,8 @@ color:
     - '#3B424D'
     - '#1D181F'
 name: Anders Haaber
-navigation: []
+navigation:
+  - id: 05b4855b-69f9-4f1e-9cc5-ac871f7e01fc
+    url: 2016-07-21-05b4855b-69f9-4f1e-9cc5-ac871f7e01fc.html
+    name: MUSIKER
+    type: content
